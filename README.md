@@ -11,7 +11,7 @@
 ## 学習中
 * Python
 * HTML/CSS
-* Ruby on Rails
+* Ruby(Rails)
 * 基本情報技術者試験
 
 ## 趣味・好きなもの・活動etc...
