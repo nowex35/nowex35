@@ -20,9 +20,9 @@
 * 大学サークル活動でバスケと筑波大学宿舎祭の運営をしています。
 * ExWHYZ
 
-##外部リンク
+## 外部リンク
 X:[![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
-
+Note:[https://note.com/nowex35]
 
 
 
