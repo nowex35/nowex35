@@ -22,9 +22,10 @@
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,js,html,css,visualstudio,vscode,git&perline=5)](https://skillicons.dev)
 
 
-# I'm interested in ...
+# My faborite ...
 - スポーツ観戦（千葉ジェッツふなばし）
 - ExWHYZ
+- つけめん・まぜそば　むじゃき
 - デスク周りガジェット類
 
   
