@@ -1,18 +1,31 @@
 - 筑波大学情報学群情報科学類　B1 (2023/4~)
+- 合同会社オハギファクトリー　インターンシップ(2023/12)
+- 株式会社インテグラルテクノロジー(2024/1~)
+- 筑波大学宿舎祭実行委員(やどさい)
+- 
+## I'd like to work as ...
+- web開発エンジニア
+- スポーツビジネス・マーケター
+- スポーツアナリスト
+  - 将来的にバスケットボール関連の仕事に携わりたいです。
 
+## Langages ...
+- Rails(Ruby)
+- HTML/CSS
+- JS
+- C#
+- Python
 
+## I'm interested in ...
+- スポーツ観戦（千葉ジェッツふなばし）
+- ExWHYZ
+- デスク周りガジェット類
+- 
+## リンク
+[![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
+<a href="https://qiita.com/nowex35" target="_blank"><img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=plastic"></a>
+<a href="https://note.com/nowex35" target="_blank"><img src="https://img.shields.io/badge/-Note-gray?logo=gray&style=plastic"></a>
 
-## 興味のあるもの
-* web開発
-* スポーツのアナリスト
-  * 特にバスケットボールプレー経験があり特にバスケットボール関連の仕事に携わりたい。
-* スポーツビジネス・マーケティング
-
-## 学習中
-* Python
-* HTML/CSS
-* Ruby(Rails)
-* 基本情報技術者試験
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowex35&layout=compact&show_icons=true&theme=onedark" />
@@ -20,18 +33,6 @@
 </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=nowex35&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 趣味・好きなもの・活動etc...
-* ガジェット類の紹介動画
-* Bリーグ観戦（国内バスケットボールリーグ）
-* 大学サークル活動でバスケと筑波大学宿舎祭の運営をしています。
-* ExWHYZ
-
-## 外部リンク
-[![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
-<a href="https://qiita.com/nowex35" target="_blank"><img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=plastic"></a>
-<a href="https://note.com/nowex35" target="_blank"><img src="https://img.shields.io/badge/-Note-gray?logo=gray&style=plastic"></a>
 
 <!---
 nowex35/nowex35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
