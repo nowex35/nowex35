@@ -10,7 +10,7 @@
   - 将来的にバスケットボール関連の仕事に携わりたいです。
 
 ## Langages, Tools and so on ...
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,js,html,css&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,js,html,css,visualstudio,vs,git&perline=5)](https://skillicons.dev)
 
 ## I'm interested in ...
 - スポーツ観戦（千葉ジェッツふなばし）
