@@ -14,6 +14,11 @@
 * Ruby(Rails)
 * 基本情報技術者試験
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowex35
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 趣味・好きなもの・活動etc...
 * ガジェット類の紹介動画
 * Bリーグ観戦（国内バスケットボールリーグ）
