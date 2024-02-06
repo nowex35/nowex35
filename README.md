@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,js,html,css,visualstudio,vscode,git&perline=5)](https://skillicons.dev)
 
 
-# My faborite ...
+# My favorite 
 - スポーツ観戦（千葉ジェッツふなばし）
 - ExWHYZ
 - つけめん・まぜそば むじゃき
