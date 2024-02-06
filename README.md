@@ -15,7 +15,7 @@
 * 基本情報技術者試験
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowex35
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowex35&layout=conpact
 )](https://github.com/anuraghazra/github-readme-stats)
 
 
