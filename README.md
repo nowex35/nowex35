@@ -9,7 +9,8 @@
 - スポーツアナリスト
   - 将来的にバスケットボール関連の仕事に携わりたいです。
 
-## Langages ...
+## Langages, Tools and so on ...
+[![My Skills](https://skillicons.dev/icons?i=rails,js,html,css)](https://skillicons.dev)
 - Rails(Ruby)
 - HTML/CSS
 - JS
