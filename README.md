@@ -25,7 +25,7 @@
 - <a href="https://note.com/nowex35/"><img alt="Static Badge" src="https://img.shields.io/badge/nowex35%2FNote-ffffff?style=flat-square&logoColor=%23000000">
 - <a href="https://qiita.com/nowex35" target="_blank"><<img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=plastic"></a>
 <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fnote.com%2Fnowex35?style=flat&logoColor=white&label=%3Ca%20href%3D%22https%3A%2F%2Fnote.com%2Fnowex35%2F%22%3E">
-
+- [![](https://img.shields.io/badge/note-writing-white)]("https://note.com/nowex35/")
 
 
 
