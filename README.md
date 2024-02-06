@@ -21,8 +21,8 @@
 * ExWHYZ
 
 ## 外部リンク
-- X:[![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
-- Note:[https://note.com/nowex35]
+- [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
+- <a href="https://note.com/nowex35/"><img alt="Static Badge" src="https://img.shields.io/badge/nowex35%2FNote-ffffff?style=flat-square&logoColor=%23000000">
 - Qiita:[https://qiita.com/nowex35]
 
 
