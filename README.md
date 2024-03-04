@@ -13,7 +13,7 @@
 
 
 # Langages, Tools and so on ...
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,js,html,css,visualstudio,vscode,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,mojo,js,html,css,visualstudio,vscode,git&perline=6)](https://skillicons.dev)
 
 
 # My favorite 
