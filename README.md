@@ -1,19 +1,21 @@
  # My affiliations and experience
-- 筑波大学情報学群情報科学類　B1 (2023/4~)
+- 筑波大学情報学群情報科学類　B2 (2023/4~)
 - 合同会社オハギファクトリー　インターンシップ(2023/12)
-- 株式会社インテグラルテクノロジー(2024/1~)
+- 株式会社インテグラルテクノロジー　インターンシップ(2024/1~)
 - 筑波大学宿舎祭実行委員(やどさい)
+- 筑波大学スポーツ局　: TSUKUBA LIVE
 
 
 # I'd like to work as ...
 - web開発エンジニア
 - スポーツビジネス・マーケター
+- ビジネスアナリスト
 - スポーツアナリスト
   - 将来的にバスケットボール関連の仕事に携わりたいです。
 
 
 # Langages, Tools and so on ...
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,mojo,js,html,css,visualstudio,vscode,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,mojo,js,html,css,visualstudio,vscode,git,figma&perline=6)](https://skillicons.dev)
 
 
 # My favorite 
