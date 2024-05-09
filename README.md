@@ -3,19 +3,19 @@
 - 合同会社オハギファクトリー　インターンシップ(2023/12)
 - 株式会社インテグラルテクノロジー　インターンシップ(2024/1~)
 - 筑波大学宿舎祭実行委員(やどさい)
-- 筑波大学スポーツ局　: TSUKUBA LIVE
+- 筑波大学スポーツ局　: TSUKUBA LIVE！クリエイター
 
 
 # I'd like to work as ...
-- web開発エンジニア
-- スポーツビジネス・マーケター
-- ビジネスアナリスト
-- スポーツアナリスト
+- データアナリスト・サイエンティスト{スポーツ分野、ビジネス分野}
+- especialy →　スポーツアナリスト
   - 将来的にバスケットボール関連の仕事に携わりたいです。
+- その他、マネジメントやマーケター
+- web開発エンジニア 
 
 
 # Langages, Tools and so on ...
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,mojo,js,html,css,visualstudio,vscode,git,docker,figma&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,cs,python,js,vue,html,css,visualstudio,vscode,git,docker,figma&perline=6)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=qt,notion&perline=6)](https://skillicons.dev)
