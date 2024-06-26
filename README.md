@@ -14,8 +14,11 @@
 
 # Langages, Tools and so on ...
 [![My Skills](https://skillicons.dev/icons?i=ruby,js,html,css,python,cs&perline=7)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=rails,vue,nuxt&perline=7)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=docker,figma&perline=7)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=qt,notion&perline=6)](https://skillicons.dev)
 
 # My favorite 
