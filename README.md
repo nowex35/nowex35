@@ -13,9 +13,9 @@
 
 
 # Langages, Tools and so on ...
-[![My Skills](https://skillicons.dev/icons?i=ruby,js,html,css,python,cs&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby,cs&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=rails,vue,nuxt&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxt,rails&perline=7)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,figma&perline=7)](https://skillicons.dev)
 
