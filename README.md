@@ -2,15 +2,14 @@
 - 筑波大学情報学群情報科学類(2023/4~)　B2 
 - 合同会社オハギファクトリー　インターンシップ(2023/12)
 - 株式会社インテグラルテクノロジー　インターンシップ(2024/1~2024/8)
-- 筑波大学宿舎祭実行委員
-- 筑波大学スポーツ局　: TSUKUBA LIVE！クリエイターズ
+- 筑波大学宿舎祭実行委員：情報隊
+- 筑波大学スポーツ局：TSUKUBA LIVE！クリエイターズ
 
 
 # I'd like to work as ...
 - データサイエンティスト{ビジネス分野、スポーツ分野}
-- マーケター・マネージャー
 - webエンジニア・システムエンジニア
-
+- マーケター・マネージャー
 
 # Langages, Tools and so on ...
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby&perline=7)](https://skillicons.dev)
@@ -19,7 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,figma&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=qt,notion&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion&perline=6)](https://skillicons.dev)
 
 # My favorite 
 - スポーツ観戦（千葉ジェッツふなばし）
