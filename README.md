@@ -12,9 +12,9 @@
 - マーケター・マネージャー
 
 # Langages, Tools and so on ...
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ruby,js,html,css&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,vue,nuxt,rails&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,rails,vue,nuxt&perline=7)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,figma&perline=7)](https://skillicons.dev)
 
