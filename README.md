@@ -22,8 +22,6 @@
 
 # My favorite 
 - スポーツ観戦（千葉ジェッツふなばし）
-- デスク周りガジェット類
-- ExWHYZ
   
 # リンク
 [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
