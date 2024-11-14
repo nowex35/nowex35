@@ -7,9 +7,8 @@
 
 
 # I'd like to work as ...
-- データサイエンティスト{ビジネス分野、スポーツ分野}
+- データサイエンティスト・アナリスト{ビジネス分野、スポーツ分野}
 - webエンジニア・システムエンジニア
-- マーケター・マネージャー
 
 # Langages, Tools and so on ...
 [![My Skills](https://skillicons.dev/icons?i=python,ruby,js,html,css&perline=7)](https://skillicons.dev)
