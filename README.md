@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=django,rails,vue,react,next&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,netlify,AWS,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,netlify,aws,figma&perline=7)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=notion&perline=6)](https://skillicons.dev)
 
