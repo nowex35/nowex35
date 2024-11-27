@@ -17,7 +17,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,postman,git,docker,figma&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=notion&perline=8)](https://skillicons.dev)
 
 # Main skils
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,ts,react&perline=8)](https://skillicons.dev)
