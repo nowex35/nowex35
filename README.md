@@ -26,7 +26,7 @@
 - スポーツ観戦（千葉ジェッツふなばし）
 
 # Ohter
-- 主に学内団体で用いる業務アプリやAPI開発などをしています。
+- 主に学内団体で用いる業務アプリやAPI開発などの経験があります。
   
 # リンク
 [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
