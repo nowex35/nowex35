@@ -10,14 +10,17 @@
 - データサイエンティスト・アナリスト{ビジネス分野、スポーツ分野}
 - webエンジニア・システムエンジニア
 
-# Langages, Tools and so on ...
+# Skils
 [![My Skills](https://skillicons.dev/icons?i=python,ruby,js,ts,html,css&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,rails,vue,nuxt,react,next&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,rails,vue,nuxt,react,next&perline=7)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,netlify,aws,vercel,postman,figma&perline=7)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=notion&perline=6)](https://skillicons.dev)
+
+# Main skils
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,ts,react&perline=7)](https://skillicons.dev)
 
 # My favorite 
 - スポーツ観戦（千葉ジェッツふなばし）
