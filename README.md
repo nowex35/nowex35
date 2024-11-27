@@ -13,7 +13,7 @@
 # Langages, Tools and so on ...
 [![My Skills](https://skillicons.dev/icons?i=python,ruby,js,html,css&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,rails,vue,react,next&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,rails,vue,nuxt,react,next&perline=7)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,netlify,aws,vercel,figma&perline=7)](https://skillicons.dev)
 
