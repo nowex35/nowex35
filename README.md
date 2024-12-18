@@ -19,7 +19,7 @@
 
 
 # Main skils
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,ts,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,ts,react&perline=8)](https://skillicons.dev)
 
 # My favorite 
 - スポーツ観戦（千葉ジェッツふなばし）
