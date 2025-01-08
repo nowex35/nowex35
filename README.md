@@ -18,7 +18,7 @@
 # Skils
 [![My Skills](https://skillicons.dev/icons?i=python,ruby,js,ts,html,css&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,rails,vue,nuxt,react,next&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,rails,vue,nuxt,react,next&perline=8)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,postman,git,docker,figma&perline=8)](https://skillicons.dev)
 
