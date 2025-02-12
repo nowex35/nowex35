@@ -1,11 +1,11 @@
  # My affiliations and experience
 * 所属/Affiliations
-  * 筑波大学情報学群情報科学類(Apr 2023 - Present)　B2　/ Sophomore CS student at University of Tsukuba 
+  * 筑波大学情報学群情報科学類(Apr 2023 - Present)B2　　　　　　/Sophomore CS student at University of Tsukuba 
   * 筑波大学宿舎祭実行委員
   * エンジニアコミュニティ「OneThing」
 
 * 資格等/Certifications
-  * 応用情報技術者試験('24.autumn　合格)/Applied Information Technology Engineer (AP) Certification
+  * 応用情報技術者試験('24.autumn　合格)　　　　　　　　　　　　/Applied Information Technology Engineer (AP) Certification
 
 * インターン・就業経験等/Internships & Work Experience
   * 合同会社オハギファクトリー　短期インターンシップ(Dec 2023)
@@ -14,20 +14,20 @@
 # Skils
 [![My Skills](https://skillicons.dev/icons?i=python,ruby,js,ts,html,css&perline=8)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=django,rails,vue,nuxt,react,next&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django,rails,vue,nuxt,react,next&perline=8)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,postman,git,docker,figma&perline=8)](https://skillicons.dev)
 
 
 # Main skils
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,ts,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,html,css,js,ts,react&perline=8)](https://skillicons.dev)
 
 # My favorite 
-- スポーツ観戦（千葉ジェッツふなばし）/ Watching basketball
+- バスケ観戦（千葉ジェッツふなばし）　　　　　　　　　　　　　　　/Basketball fan, especially of the Chiba Jets Funabashi.
 
 # Ohter
-- 主に学内団体で用いる業務アプリやAPI開発などの経験があります。/Experience in developing business applications and APIs, primarily for university-affiliated organizations.
-- 今年はMojo関連のcontributorしたい。/Aspiring to contribute to Mojo-related projects this year.
+- 主に学内団体で用いる業務アプリやAPI開発などの経験があります。　/Experience in building apps and APIs for organizations.
+- 今年はMojo関連のcontributorしたい。　　　　　　　　　　　　　　/Aspiring to contribute to Mojo-related projects this year.
   
 # リンク
 [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
