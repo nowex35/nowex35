@@ -20,7 +20,7 @@
 
 
 # Main skils
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,html,css,js,ts,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,ts,react&perline=8)](https://skillicons.dev)
 
 # My favorite 
 - バスケ観戦（千葉ジェッツふなばし）　　　　　　　　　　　　　　　/Basketball fan, especially of the Chiba Jets Funabashi.
