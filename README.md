@@ -12,7 +12,7 @@
   * 株式会社インテグラルテクノロジー　インターンシップ(Jan 2024 – Aug 2024)
 
 # Skils
-[![My Skills](https://skillicons.dev/icons?i=python,ruby,js,ts,html,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,ruby,js,ts,html,css&perline=8)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=fastapi,django,rails,vue,nuxt,react,next&perline=8)](https://skillicons.dev)
 
