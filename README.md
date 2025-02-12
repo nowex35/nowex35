@@ -1,20 +1,15 @@
  # My affiliations and experience
-* 所属
-  * 筑波大学情報学群情報科学類(2023/4~)　B2
-  * 筑波大学宿舎祭実行委員：公式HP
-  * (筑波大学スポーツ局：TSUKUBA LIVE！クリエイターズ)
+* 所属/Affiliations
+  * 筑波大学情報学群情報科学類(Apr 2023 - Present)　B2　/ Sophomore CS student at University of Tsukuba 
+  * 筑波大学宿舎祭実行委員
   * エンジニアコミュニティ「OneThing」
 
-* 資格等
-  * 応用情報技術者試験('24.autumn　合格)
+* 資格等/Certifications
+  * 応用情報技術者試験('24.autumn　合格)/Applied Information Technology Engineer (AP) Certification
 
-* インターン・就業経験等
-  * 合同会社オハギファクトリー　短期インターンシップ(2023/12)
-  * 株式会社インテグラルテクノロジー　インターンシップ(2024/1~2024/8)
-
-# I'd like to work as ...
-- データサイエンティスト・アナリスト{ビジネス分野、スポーツ分野}
-- webエンジニア・システムエンジニア
+* インターン・就業経験等/Internships & Work Experience
+  * 合同会社オハギファクトリー　短期インターンシップ(Dec 2023)
+  * 株式会社インテグラルテクノロジー　インターンシップ(Jan 2024 – Aug 2024)
 
 # Skils
 [![My Skills](https://skillicons.dev/icons?i=python,ruby,js,ts,html,css&perline=8)](https://skillicons.dev)
@@ -28,11 +23,11 @@
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,js,ts,react&perline=8)](https://skillicons.dev)
 
 # My favorite 
-- スポーツ観戦（千葉ジェッツふなばし）
+- スポーツ観戦（千葉ジェッツふなばし）/ Watching basketball
 
 # Ohter
-- 主に学内団体で用いる業務アプリやAPI開発などの経験があります。
-- 今年はMojo関連のcontributorしたい
+- 主に学内団体で用いる業務アプリやAPI開発などの経験があります。/Experience in developing business applications and APIs, primarily for university-affiliated organizations.
+- 今年はMojo関連のcontributorしたい。/Aspiring to contribute to Mojo-related projects this year.
   
 # リンク
 [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
