@@ -11,16 +11,9 @@
   * 合同会社オハギファクトリー　短期インターンシップ(Dec 2023)
   * 株式会社インテグラルテクノロジー　インターンシップ(Jan 2024 – Aug 2024)
 
-# Skils or Tools
-[![My Skills](https://skillicons.dev/icons?i=python,go,ruby,js,ts,html,css&perline=8)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,rails,vue,nuxt,react,next&perline=8)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=aws,netlify,vercel,postman,git,docker,figma&perline=8)](https://skillicons.dev)
-
 
 # Main skils
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,ts,react&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,ts,next&perline=8)](https://skillicons.dev)
 
 # My favorite 
 - バスケ観戦（千葉ジェッツふなばし）　　　　　　　　　　　　　　　/Basketball fan, especially of the Chiba Jets Funabashi.
