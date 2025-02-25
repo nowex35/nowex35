@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,ts,next,go&perline=8)](https://skillicons.dev)
 
 # My favorite 
-- バスケ観戦（千葉ジェッツふなばし）　　　　　　　　　　　　　　　/Basketball fan, especially of the Chiba Jets Funabashi.
+- バスケ観戦（千葉ジェッツふなばし）　　　　　　　　　　　　　　　/Basketball fan, especially of the Chiba Jets Funabashi in Japan.
 
 # Ohter
 - 主に学内団体で用いる業務アプリやAPI開発などの経験があります。　/Experience in building apps and APIs for organizations.
