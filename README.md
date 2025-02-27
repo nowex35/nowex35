@@ -20,8 +20,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=protoforio)](https://github.com/nowex35/protoforio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=tles_backend)](https://github.com/nowex35/tles_backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=official_site2024new)](https://github.com/nowex35/official_site2024new)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=mojo_fork)](https://github.com/nowex35/mojo_fork)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=lightbug_http_fork)](https://github.com/nowex35/lightbug_http_fork)
 
 # Main skils
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,ts,next,go&perline=8)](https://skillicons.dev)
