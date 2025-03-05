@@ -1,6 +1,6 @@
  # My affiliations and experience
 * 所属/Affiliations
-  * 筑波大学情報学群情報科学類(Apr 2023 - Present)B2　　　　　　/Sophomore CS student at University of Tsukuba 
+  * 筑波大学情報学群情報科学類(Apr 2023 - Present)B3　　　　　　/junior CS student at University of Tsukuba 
   * 筑波大学宿舎祭実行委員
   * エンジニアコミュニティ「OneThing」
 
