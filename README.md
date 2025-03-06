@@ -1,8 +1,8 @@
  # My affiliations and experience
 * 所属/Affiliations
   * 筑波大学情報学群情報科学類(Apr 2023 - Present)B3　　　　　　/junior CS student at University of Tsukuba 
-  * 筑波大学宿舎祭実行委員
-  * エンジニアコミュニティ「OneThing」
+  * 筑波大学宿舎祭実行委員　情報隊
+  * 筑波大学エンジニアコミュニティ「OneThing」
 
 * 資格等/Certifications
   * 応用情報技術者試験('24.autumn　合格)　　　　　　　　　　　　/Applied Information Technology Engineer (AP) Certification
