@@ -1,11 +1,11 @@
  # My affiliations and experience
-* 所属/Affiliations
-  * 筑波大学情報学群情報科学類(Apr 2023 - Present)B3　　　　　　/junior CS student at University of Tsukuba 
+* 所属
+  * 筑波大学情報学群情報科学類(Apr 2023 - Present)B3
 
-* 資格等/Certifications
-  * 応用情報技術者試験('24.autumn　合格)　　　　　　　　　　　　/Applied Information Technology Engineer (AP) Certification
+* 資格等
+  * 応用情報技術者試験('24.autumn　合格)
 
-* インターン・就業経験等/Internships & Work Experience
+* インターン・就業経験等
   * 合同会社オハギファクトリー　短期インターンシップ(Dec 2023)
   * 株式会社インテグラルテクノロジー　インターンシップ(Jan 2024 – Aug 2024)
 
@@ -24,8 +24,7 @@
 
 
 # Ohter
-- 主に学内団体で用いる業務アプリやAPI開発などの経験があります。　/Experience in building apps and APIs for organizations.
-- 今年はMojo関連のcontributorしたい。　　　　　　　　　　　　　　/Aspiring to contribute to Mojo-related projects this year.
+- 今年はMojo関連のcontributorしたい。
   
 # リンク
 [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
