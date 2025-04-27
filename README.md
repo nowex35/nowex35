@@ -28,7 +28,7 @@
   
 # リンク
 [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
-<a href="https://qiita.com/nowex35" target="_blank"><img src="https://img.shields.io/badge/-Qiita-55C500.svg?logo=qiita&style=plastic"></a>
+<a href="https://zenn.dev/nowex35?tab=scraps"><img src="https://badgen.org/img/zenn/nowex35/scraps?style=plastic" alt="Scraps" /></a>
 <a href="https://note.com/nowex35" target="_blank"><img src="https://img.shields.io/badge/-Note-gray?logo=gray&style=plastic"></a>
 
 
