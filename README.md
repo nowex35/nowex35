@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowex35&layout=donut)](https://github.com/nowex35/github-readme-stats)
 
 # Products
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=event-manegement-app)](https://github.com/nowex35/event-manegement-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=event_management_app)](https://github.com/nowex35/event_management_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=protoforio)](https://github.com/nowex35/protoforio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=tles_backend)](https://github.com/nowex35/tles_backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=official_site2024new)](https://github.com/nowex35/official_site2024new)
