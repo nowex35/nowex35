@@ -8,6 +8,7 @@
 * インターン・就業経験等
   * 合同会社オハギファクトリー　短期インターンシップ(Dec 2023)
   * 株式会社インテグラルテクノロジー　インターンシップ(Jan 2024 – Aug 2024)
+  * 株式会社はてな　インターンシップ(Aug 2025)
 
 # stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowex35&show_icons=true&theme=gruvbox)
