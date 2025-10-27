@@ -1,6 +1,7 @@
  # My affiliations and experience
 * 所属
   * 筑波大学情報学群情報科学類(Apr 2023 - Present)B3
+  * 合同会社nowX 代表
 
 * 資格等
   * 応用情報技術者試験('24.autumn　合格)
