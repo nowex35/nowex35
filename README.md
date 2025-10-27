@@ -27,6 +27,7 @@
 
 # Ohter
 - 今年はMojo関連のcontributorしたい。
+  - PRが1つマージされた  
   
 # リンク
 [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
