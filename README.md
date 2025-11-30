@@ -12,12 +12,7 @@
   * 株式会社はてな　インターンシップ(Aug 2025)
   * 株式会社フリー株式会社　インターンシップ(Sep 2025)
 
-# stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nowex35&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowex35&layout=donut)](https://github.com/nowex35/github-readme-stats)
-
 # Products
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=event_management_app)](https://github.com/nowex35/event_management_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=protoforio)](https://github.com/nowex35/protoforio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=official_site2024new)](https://github.com/nowex35/official_site2024new)
 
