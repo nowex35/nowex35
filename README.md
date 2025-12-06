@@ -10,7 +10,8 @@
 * インターン・就業経験等
   * 株式会社インテグラルテクノロジー　インターンシップ(Jan 2024 – Aug 2024) 
   * 株式会社はてな　インターンシップ(Aug 2025)
-  * 株式会社フリー株式会社　インターンシップ(Sep 2025)
+  * フリー株式会社　インターンシップ(Sep 2025)
+  * 株式会社MIXI　インターンシップ(Dec 2025 - Present)
 
 # Products
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=official_site2024new)](https://github.com/nowex35/official_site2024new)
