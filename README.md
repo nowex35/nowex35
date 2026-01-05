@@ -15,7 +15,7 @@
 
 
 # Main skils
-[![My Skills](https://skillicons.dev/icons?i=python,ts,go,ruby,flutter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,ruby,ts,flutter&perline=8)](https://skillicons.dev)
 
   
 # リンク
