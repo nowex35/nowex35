@@ -14,6 +14,7 @@
   * 株式会社MIXI　インターンシップ(Dec 2025 - Jan 2026)
 
 # Products
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nowex35&repo=official_site2024new)](https://github.com/nowex35/official_site2024new)
 
 # Main skils
