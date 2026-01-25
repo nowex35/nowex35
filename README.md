@@ -14,13 +14,15 @@
   * 株式会社MIXI　インターンシップ(Dec 2025 - Jan 2026)
 
 
-# Main skils
+# 興味
+Golang,データベース,スポーツテック,パフォーマンスチューニング,セキュリティ<br/>
+サーバーサイドエンジニア,SRE
+<!---
 [![My Skills](https://skillicons.dev/icons?i=python,go,ruby,ts,flutter&perline=8)](https://skillicons.dev)
-
+--->
   
 # リンク
 [![Twitter: nowex35](https://img.shields.io/twitter/follow/nowex35?style=social)](https://twitter.com/nowex35)
-<a href="https://zenn.dev/nowex35?tab=scraps"><img src="https://badgen.org/img/zenn/nowex35/scraps?style=plastic" alt="Scraps" /></a>
 <a href="https://note.com/nowex35" target="_blank"><img src="https://img.shields.io/badge/-Note-gray?logo=gray&style=plastic"></a>
 
 
