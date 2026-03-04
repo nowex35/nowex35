@@ -15,5 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://note.com/nowex35/rss"
-          max_post_count: 5
+          max_post_count: 3
           template: "$newline- [$title]($url)"
