@@ -12,6 +12,10 @@
   * 株式会社はてな インターンシップ (Aug 2025)
   * フリー株式会社 インターンシップ (Sep 2025)
   * 株式会社MIXI インターンシップ (Dec 2025 - Jan 2026)
+  
+* **ハッカソン**
+  * X Hackason[Xtraveler]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2nd Place** (Mar 2024)
+  * Mistral AI Worldwide Hackason[Mistral AI] &nbsp;&nbsp;&nbsp;&nbsp;**Japan edition** (Mar 2026)
 
 # Interests
 `Golang` `データベース` `スポーツテック` `パフォーマンスチューニング` `セキュリティ` <br/>
