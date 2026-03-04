@@ -11,7 +11,11 @@
 
 ### 📝 Latest Note Articles
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [【MIXI】2025サマーインターン参加レポート！　～Dive into MIXI～](https://note.com/nowex35/n/n426d66bd01a2)
+- [【freee】2025サマーインターン参加レポート！　～会社の雰囲気がfreeeすぎる～](https://note.com/nowex35/n/ne918646fde32)
+- [【はてな】サマーインターン2025参加レポート！　～noteからでごめんなさい～](https://note.com/nowex35/n/n319d56c175cf)
+- [大学２年生を振り返ってみた](https://note.com/nowex35/n/n139a518051b3)
+- [海外先進大学スポーツマネジメント研修 in Hawaii Part3](https://note.com/nowex35/n/nb68e80aea7a4)<!-- BLOG-POST-LIST:END -->
 ---
 
 # 🎓 Affiliations and Experience
