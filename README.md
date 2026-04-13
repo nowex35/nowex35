@@ -1,6 +1,6 @@
 # Affiliations and Experience
 * **所属**
-  * 筑波大学情報学群情報科学類 (Apr 2023 - Present) B3
+  * 筑波大学情報学群情報科学類 (Apr 2023 - Present) B4
   * 合同会社nowX 代表 (Oct 2025 - Present)
 
 * **資格等**
