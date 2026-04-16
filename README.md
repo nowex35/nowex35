@@ -12,6 +12,10 @@
   * 株式会社はてな インターンシップ (Aug 2025)
   * フリー株式会社 インターンシップ (Sep 2025)
   * 株式会社MIXI インターンシップ (Dec 2025 - Jan 2026)
+
+* **プログラム参加経験**
+  * 筑波大学 海外先進大学スポーツマネジメント研修
+  * 筑波大学 CampusOJT 17期生
   
 * **ハッカソン**
   * X Hackason[Xtraveler]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2nd Place** (Mar 2024)
