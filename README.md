@@ -22,8 +22,10 @@
   * Mistral AI Worldwide Hackason[Mistral AI] &nbsp;&nbsp;&nbsp;&nbsp;**Japan edition** (Mar 2026)
 
 # Service
-- <60-0>Unique Visitor4万人、総プレイ50万回以上
-[![60-0](https://b60-0.com/og.png)](https://b60-0.com/)
+- **60-0**:Unique Visitor4万人、総プレイ50万回以上
+<a href="https://b60-0.com/">
+  <img src="https://b60-0.com/og.png" alt="60-0" width="400">
+</a>
 
 # Interests
 `Golang` `データベース` `スポーツテック` `パフォーマンスチューニング` `セキュリティ` <br/>
