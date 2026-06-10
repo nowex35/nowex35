@@ -22,7 +22,7 @@
   * Mistral AI Worldwide Hackason[Mistral AI] &nbsp;&nbsp;&nbsp;&nbsp;**Japan edition** (Mar 2026)
 
 # Service
-- ユニークユーザー4万人、総プレイ50万回以上
+- <60-0>ユニークユーザー4万人、総プレイ50万回以上
 [![60-0](https://b60-0.com/og.png)](https://b60-0.com/)
 
 # Interests
