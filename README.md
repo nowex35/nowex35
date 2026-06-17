@@ -21,6 +21,8 @@
   * X Hackason[Xtraveler]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2nd Place** (Mar 2024)
   * Mistral AI Worldwide Hackason[Mistral AI] &nbsp;&nbsp;&nbsp;&nbsp;**Japan edition** (Mar 2026)
 
+
+# Services
 | 60-0 | Looky |
 | :---: | :---: |
 | <a href="https://b60-0.com/"><img src="https://b60-0.com/og.png" alt="60-0" width="300"></a> | <img src="./icon_looky.png" alt="Looky" width="150"><br><a href="https://apps.apple.com/jp/app/looky/id6748163382"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" width="150"></a> |
