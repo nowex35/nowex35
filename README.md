@@ -21,18 +21,14 @@
   * X Hackason[Xtraveler]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2nd Place** (Mar 2024)
   * Mistral AI Worldwide Hackason[Mistral AI] &nbsp;&nbsp;&nbsp;&nbsp;**Japan edition** (Mar 2026)
 
-# Service
-- **60-0**:Unique Visitor7.5万人、総プレイ80万回以上、総プレイ時間10000時間超え
-<a href="https://b60-0.com/">
-  <img src="https://b60-0.com/og.png" alt="60-0" width="400">
-</a>
-
-- *Looky*:筑波大学CampusOJTで作成したバーチャル試着アプリ</br>
-[![Download on the App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/jp/app/looky/id6748163382)
+| 60-0 | Looky |
+| :---: | :---: |
+| <a href="https://b60-0.com/"><img src="https://b60-0.com/og.png" alt="60-0" width="300"></a> | <img src="./icon_looky.png" alt="Looky" width="150"><br><a href="https://apps.apple.com/jp/app/looky/id6748163382"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" width="150"></a> |
+| Unique Visitor7.5万人、総プレイ80万回以上<br>総プレイ時間10000時間超え | 筑波大学CampusOJTで作成した<br>バーチャル試着アプリ |
 
 # Interests
-`Golang` `データベース` `スポーツテック` `パフォーマンスチューニング` `セキュリティ` <br/>
-`サーバーサイドエンジニア` `SRE`
+`データベース` `データストリーム` `パフォーマンスチューニング` <br/>
+`サーバーサイドエンジニア` `SRE` `k8s` `Golang` 
 
 # Latest Articles
 <!-- BLOG-POST-LIST:START -->
