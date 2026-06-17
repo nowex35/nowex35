@@ -27,6 +27,9 @@
   <img src="https://b60-0.com/og.png" alt="60-0" width="400">
 </a>
 
+- *Looky*:筑波大学CampusOJTで作成したバーチャル試着アプリ</br>
+[![Download on the App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/jp/app/looky/id6748163382)
+
 # Interests
 `Golang` `データベース` `スポーツテック` `パフォーマンスチューニング` `セキュリティ` <br/>
 `サーバーサイドエンジニア` `SRE`
