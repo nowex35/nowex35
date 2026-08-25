@@ -19,8 +19,8 @@
   * 2week entrepreneurship program in Silicon Valley (Sep 2026)
   
 * **ハッカソン**
-  * X Hackason[Xtraveler]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2nd Place** (Mar 2024)
-  * Mistral AI Worldwide Hackason[Mistral AI] &nbsp;&nbsp;&nbsp;&nbsp;**Japan edition** (Mar 2026)
+  * X Hackason[Xtraveler] - **2nd Place** (Mar 2024)
+  * Mistral AI Worldwide Hackathon — **Japan Edition** | Selected Participant (Mar 2026)
 
 
 # Services
