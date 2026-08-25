@@ -14,8 +14,9 @@
   * 株式会社MIXI インターンシップ (Dec 2025 - Jan 2026)
 
 * **プログラム参加経験**
-  * 筑波大学 海外先進大学スポーツマネジメント研修
-  * 筑波大学 CampusOJT 17期生
+  * 筑波大学 海外先進大学スポーツマネジメント研修 at ハワイ大学マノア校 (Mar 2024)
+  * 筑波大学 CampusOJT 17期生 (April 2025 - Jan 2026)
+  * 2week entrepreneurship program in Silicon Valley (Sep 2026)
   
 * **ハッカソン**
   * X Hackason[Xtraveler]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2nd Place** (Mar 2024)
